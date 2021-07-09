@@ -23,4 +23,12 @@ Este pull request va a ser revisado por mi Tech Lead
 ```shell
 # para salvar tus cambios en tu branch actual
 cmd> git add .
+
+# para hacer el commit es con este comando 
+cmd> git commit -m "Hoy agregue esta funcion X"
+
+# para ver todos los cambios que he hecho y no están todavía en el server usar este comando
+cmd> git log --branches --not --remotes
 ```
+
+
