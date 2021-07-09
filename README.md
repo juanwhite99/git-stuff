@@ -4,7 +4,6 @@ Para cambiar de ambiente localmente y dar un tracking es con este comando:
 ```shell
 # git checkout <branch-en-servidor> i.e.
 cmd> git checkout dev
-
 ```
 
 ### Requerimiento: 
