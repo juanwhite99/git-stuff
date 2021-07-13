@@ -51,3 +51,7 @@ cmd> git stash list
 cmd> git stash pop
 
 ```
+
+![image info](./images/branching.png)
+
+![image info](./images/git-strategy.png)
