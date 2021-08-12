@@ -50,6 +50,7 @@ cmd> git stash list
 # para volver a recuperar las cosas del stash basta con este comando
 cmd> git stash pop
 
+# Feature test example
 ```
 
 ![image info](./images/branching.png)
